@@ -3,7 +3,7 @@
 
 + Section 02
 + N. Leily Khatibi - contact: <niousha.khatibi@sjsu.edu>
-+ Class hours: Tue/Thu 9:00 - 11:50am
++ Class Hours: Tue/Thu 9:00 - 11:50am
 + Office Hours: Tue/Thu 12-2pm
 + [Link to class Google Drive](https://drive.google.com/open?id=1_7Iqxdxp8lJclV80gxv_3a55Ud1THcp7).
 
