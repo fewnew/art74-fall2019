@@ -1,5 +1,5 @@
 # Syllabus
-### ART 074: Section 5, Spring 2019.
+### ART 074: Section 02, Fall 2019.
 
 :beginner: △▽△▽△▽ :beginner:
 
