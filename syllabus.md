@@ -1,5 +1,5 @@
 # Syllabus
-<<<<<<< HEAD
+
 ### ART 074: Section 5, fall 2019.
 
 :beginner: △▽△▽△▽ :beginner:
@@ -7,7 +7,6 @@
 
 [Home](https://github.com/fewnew/art74-fall2019) | [Syllabus](https://github.com/fewnew/art74-fall2019/blob/master/syllabus.md) | [Readings](https://github.com/fewnew/art74-fall2019/tree/master/readings) | [Projects](https://github.com/fewnew/art74-fall2019/tree/master/projects) | [Small Assignments](https://github.com/fewnew/art74-fall2019/tree/master/small-assignments) |
 | --- | --- | --- | --- | --- |
->>>>>>> origin/master
 
 [Go to Course Schedule](https://github.com/fewnew/art74-fall2019/blob/master/syllabus.md#course-schedule)
 
