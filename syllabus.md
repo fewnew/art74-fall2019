@@ -185,7 +185,7 @@ Week | Date | Topics, Readings, Assignments, Deadlines
 2 | Tue, 09/03 | **Lecture:** Vector vs. raster <br> **Lab:** Intro to vector based image with Illustrator ↣ Topics on Illustrator workspace, vector graphic creation and editing controls.  <br> **Deliver:** Assignment 01 (Glitch) + Assignment 02 (Anaglyph).
 3 | Thu, 09/05 | **Lecture:** Image manipulation <br> **Lab:** Advanced Tutorials in Photoshop and Illustrator ↣ Topics related to advanced editing and manipulation features of graphics and images. <br> **Deliver:** Assignment 03 (Poster).
 3 | Tue, 09/10 | **Lecture:** Modern micro cinema/gif files <br> **Lab:** Advanced Tutorials in Photoshop ↣ Topics related to frame animation and exporting. <br> **Deliver:** [Reading 03](https://github.com/fewnew/art74-fall2019/blob/master/Readings/reading04/InvisibleVisualities.pdf) //  in class discussion on the reading.
-4 | Thu, 09/12 | **Field trip:** Viewing SJMA Won Ju Lim’s multimedia installation.
+4 | Thu, 09/12 | **Field trip:** SJMA
 4 | Tue, 09/17 | **Lecture:** Techniques at work in Mixed and Augmented Reality. <br> **Lab:** Tutorials on how to use BlippAR. <br> **Deliver:** Progress on Project 01 ↣ printed trigger image.
 5 | Thu, 09/19 | **Lecture:** Techniques at work in Mixed and Augmented Reality. <br> **Lab:** Tutorials on how to use BlippAR. <br> **Deliver:** Progress on Project 01 ↣ animated gif loop.
 5 | Tue, 09/24 | **Lecture:** — <br> **Lab:** In-class presentation and critical review of Project 02. <br> **Deliver:** [Project 01 (GifcARds)]().
