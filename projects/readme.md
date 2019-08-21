@@ -13,5 +13,5 @@ This course consists of smaller assignments which build up necessary skills for 
 3. [Project 03: 3D MeshMash](https://github.com/fewnew/art74-spring2019/blob/master/projects/project3/readme.md)
 4. [Project 04: eFolio](https://github.com/fewnew/art74-spring2019/blob/master/projects/project4/readme.md)
 5. [Project 05: ArtWare](https://github.com/fewnew/art74-spring2019/blob/master/projects/project5/readme.md)
-6. [Projject 06: Final paper // extra credit](https://github.com/fewnew/art74-spring2019/blob/master/projects/project6-finalpaper/readme.md)
+6. [Project 06: Final paper // extra credit](https://github.com/fewnew/art74-spring2019/blob/master/projects/project6-finalpaper/readme.md)
 
