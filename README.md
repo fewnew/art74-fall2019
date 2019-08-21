@@ -1,12 +1,12 @@
 # ART 074 - Introduction to Digital Media Art
-### Spring 2019
+### Fall 2019
 
 + Section 02
 + N. Leily Khatibi - contact: <niousha.khatibi@sjsu.edu>
 + Tue/Thu 9:00 - 11:50am
 + [Link to class Google Drive](https://drive.google.com/open?id=1_7Iqxdxp8lJclV80gxv_3a55Ud1THcp7).
 
-[Home](https://github.com/fewnew/art74-spring2019) | [Syllabus](https://github.com/fewnew/art74-fall2019/blob/master/syllabus.md) | [Readings](https://github.com/fewnew/art74-spring2019/tree/master/readings) | [Projects](https://github.com/fewnew/art74-spring2019/tree/master/projects) | [Small Assignments](https://github.com/fewnew/art74-spring2019/tree/master/small-assignments) |
+[Home](https://github.com/fewnew/art74-fall2019) | [Syllabus](https://github.com/fewnew/art74-fall2019/blob/master/syllabus.md) | [Readings](https://github.com/fewnew/art74-fall2019/tree/master/readings) | [Projects](https://github.com/fewnew/art74-fall2019/tree/master/projects) | [Small Assignments](https://github.com/fewnew/art74-fall2019/tree/master/small-assignments) |
 | --- | --- | --- | --- | --- |
 
 
