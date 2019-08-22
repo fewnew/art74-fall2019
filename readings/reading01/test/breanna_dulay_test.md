@@ -16,5 +16,5 @@ this is ~~not~~ my *test* upload.
 [Inline style link with title](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf "cheatsheet") 
 
 >block quotes 
-break 
+
 >are handy 
