@@ -1,6 +1,5 @@
 This is my test upload
 
-[funnymonkey]:https://media.giphy.com/media/5UpJKX2gwruqk/giphy.gif
-
+[funnymonkey][https://i.ytimg.com/vi/4rv0G6p2jZ4/hqdefault.jpg]
 
 
