@@ -11,3 +11,4 @@ this is ~~not~~ my *test* upload.
 ![pika](https://en.meming.world/images/en/6/6e/Surprised_Pikachu.jpg) 
 
 ---
+[Inline style link](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
