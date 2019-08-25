@@ -1,1 +1,1 @@
-
+Unnderstanding the light was about how visible light is usually defined as haing wavelengths in the range of 380 and 740 nanometers.Also it says that infrared and ultraviolet are also called light although they are not detectable with human sight. Light can be reflected or it can be absorved. 
