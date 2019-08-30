@@ -1,1 +1,1 @@
-**When
+When I first look at the title "glitch", I thought of the black and white glitch on TV when the signal is working. I love watching this video because it always catch my eyes when informations show up. In the video 
