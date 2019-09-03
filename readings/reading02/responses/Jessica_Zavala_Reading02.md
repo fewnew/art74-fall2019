@@ -1,1 +1,3 @@
+Reading 02 
 
+When I first started watching the video I was a bit confused and scared because I don't know much about glitch. When he started talking about glitch art it kind of caught my attention because of how great the art looks. I found it cool when he talked about how we can glitch art, he gives great examples on how to do it. Basically what you can do to make some tipe of glitch art is take a familiar piece of technollogy and do something unfamiliar with it. I happen to learn that glitch does not really equal to error, also that glitch is equal to unexpected. I did not know that a glitch was an unexpected moment in a system that calls attention to that system. Glitch also dpes not equal to a file.
