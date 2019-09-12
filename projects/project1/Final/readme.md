@@ -1,4 +1,4 @@
-In order to be graded, documentation and description of your work must be submitted to GitHub. Students will not receive a grade until their work is submitted with the corresponding documentation and description.
+# Your Name
 
 ### Documentation
 * Title of the work
