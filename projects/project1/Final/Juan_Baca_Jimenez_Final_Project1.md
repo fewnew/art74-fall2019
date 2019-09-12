@@ -1,10 +1,14 @@
 Juan Baca Jimenez
+
 Documentation
 
-   Strawberries be Free
-   Medium: Print + AR
-   Dimensions/duration: 8.5x11
-   Attribution (burrow and tell): 
+Strawberries be Free
+
+Medium: Print + AR
+  
+Dimensions/duration: 8.5x11
+ 
+Attribution (burrow and tell): 
    [I'm an inline-style link1](https://www.pngguru.com/free-transparent-background-png-clipart-napny)
     
    [I'm an inline-style link2](https://www.pngguru.com/free-transparent-background-png-clipart-bmppa)
