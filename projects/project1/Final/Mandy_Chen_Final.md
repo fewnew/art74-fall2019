@@ -5,8 +5,8 @@
 * Medium: Print + AR
 * Dimensions/duration: 11 x 5.7 Inches
 * Attribution (burrow and tell): 
-    *1.Sucide Squad Joker https://variety.com/2017/film/news/jared-leto-margot-robbie-joker-harley-quinn-movie-1202537688/
-    *2.Dark Knight Joker https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjn-_eA88vkAhXYop4KHY7_BgUQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.hiclipart.com%2Ffree-transparent-background-png-clipart-dgejr&psig=AOvVaw25-Vt3WkkL3DsI5j6JAI2Y&ust=1568398809709203
+   [Sucide Squad Joker]( https://variety.com/2017/film/news/jared-leto-margot-robbie-joker-harley-quinn-movie-1202537688/)
+    [Dark Knight Joker](https://www.hiclipart.com/free-transparent-background-png-clipart-dgejr)
 
 ### Description
 Every project should address the following questions:
