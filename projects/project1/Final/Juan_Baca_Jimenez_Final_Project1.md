@@ -31,5 +31,5 @@ Every project should address the following questions:
 
 
 
-GIF animation linked here(https://media.giphy.com/media/ViISxL82Cm1c7MDlUq/giphy.gif)
+[GIF animation linked here](https://media.giphy.com/media/ViISxL82Cm1c7MDlUq/giphy.gif)
 
