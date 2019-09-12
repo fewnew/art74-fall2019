@@ -1,10 +1,12 @@
-In order to be graded, documentation and description of your work must be submitted to GitHub. Students will not receive a grade until their work is submitted with the corresponding documentation and description.
+### Mandy Chen
 
 ### Documentation
-* Title of the work
+* Title: New and Old Jokers
 * Medium: Print + AR
-* Dimensions/duration: your print file dimensions
-* Attribution (burrow and tell): Link to where you collected images from online
+* Dimensions/duration: 11 x 5.7 Inches
+* Attribution (burrow and tell): 
+1.Sucide Squad Joker https://variety.com/2017/film/news/jared-leto-margot-robbie-joker-harley-quinn-movie-1202537688/
+2.Dark Knight Joker
 
 ### Description
 Every project should address the following questions:
@@ -13,6 +15,6 @@ Every project should address the following questions:
 3. What is the intended context? Where/how does the audience experience it?
 4. What/who are your influences for this particular piece?
 
-![alt text](https://media.giphy.com/media/j2pvE1PRQbPOvGLWpM/giphy.gif)
+![alt text](https://imgur.com/a/AIHDrVD)
 
 [GIF animation linked here](https://media.giphy.com/media/j2pvE1PRQbPOvGLWpM/giphy.gif)
