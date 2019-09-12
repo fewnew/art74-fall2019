@@ -8,9 +8,9 @@
   
   * “Water transport collection, floating water transport with flag and lifebuoy, set of vessels leaving traces, sun and clouds    on sky vector illustration” by Roboart on Shutterstock
   
-  * “Underwater world panorama. Coral reef ocean light underwater” by Irina Markova
+  * “Underwater world panorama. Coral reef ocean light underwater” by Irina Markova on Shutterstock
   
-  * “Colored fish vector icons set on white background” by vectortatu
+  * “Colored fish vector icons set on white background” by vectortatu on Shutterstock
 
 
 
