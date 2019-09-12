@@ -3,7 +3,7 @@
 ### Documentation
 * Title of the work
 * Medium: Print + AR
-* Dimensions/duration: your print file dimensions
+* Dimensions/duration: Square 8.5 by 8.5
 * Attribution (burrow and tell): Link to where you collected images from online
 
 ### Description
