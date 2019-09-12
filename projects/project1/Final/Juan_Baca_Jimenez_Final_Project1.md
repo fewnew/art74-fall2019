@@ -28,7 +28,7 @@ Every project should address the following questions:
     What is the intended context? Where/how does the audience experience it?
     What/who are your influences for this particular piece?
 
-![strawberry](https://imgur.com/jcMLZm2)
+![strawberry](https://imgur.com/jcMLZm2.png)
 
 
 
