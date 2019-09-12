@@ -1,10 +1,10 @@
 In order to be graded, documentation and description of your work must be submitted to GitHub. Students will not receive a grade until their work is submitted with the corresponding documentation and description.
 
 ### Documentation
-Title of the work
-Medium: Print + AR
-Dimensions/duration: your print file dimensions
-Attribution (burrow and tell): Link to where you collected images from online
+* Title of the work
+* Medium: Print + AR
+* Dimensions/duration: your print file dimensions
+* Attribution (burrow and tell): Link to where you collected images from online
 
 ### Description
 Every project should address the following questions:
