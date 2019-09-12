@@ -14,3 +14,5 @@ Every project should address the following questions:
 4. What/who are your influences for this particular piece?
 
 ![alt text](https://i.imgur.com/7ETp646.jpg)
+
+[GIF animation linked here](https://media.giphy.com/media/PnCvcGv67E2QKYOQUb/giphy.gif)
