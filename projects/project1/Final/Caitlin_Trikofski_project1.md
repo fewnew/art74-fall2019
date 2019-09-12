@@ -15,4 +15,4 @@ Every project should address the following questions:
 
 ![alt text](https://i.imgur.com/7ETp646.jpg)
 
-[GIF animation linked here](https://media.giphy.com/media/PnCvcGv67E2QKYOQUb/giphy.gif)
+[GIF animation linked here]https://media.giphy.com/media/f7MVFcovdvQwmLWkCJ/giphy.gif)
