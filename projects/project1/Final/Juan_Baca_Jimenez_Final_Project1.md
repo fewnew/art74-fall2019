@@ -4,15 +4,15 @@ Documentation
     Strawberries be Free
     Medium: Print + AR
     Dimensions/duration: 8.5x11
-    Attribution (burrow and tell): (https://www.pngguru.com/free-transparent-background-png-clipart-napny)
+    Attribution (burrow and tell): [I'm an inline-style link](https://www.pngguru.com/free-transparent-background-png-clipart-napny)
     
-    (https://www.pngguru.com/free-transparent-background-png-clipart-bmppa)
+    [I'm an inline-style link](https://www.pngguru.com/free-transparent-background-png-clipart-bmppa)
     
-    (https://www.pngguru.com/free-transparent-background-png-clipart-bqptu)
+   [I'm an inline-style link](https://www.pngguru.com/free-transparent-background-png-clipart-bqptu)
     
-    (https://www.pngguru.com/free-transparent-background-png-clipart-nxsnu)
+    [I'm an inline-style link](https://www.pngguru.com/free-transparent-background-png-clipart-nxsnu)
     
-    (https://www.pngguru.com/free-transparent-background-png-clipart-aytka)
+    [I'm an inline-style link](https://www.pngguru.com/free-transparent-background-png-clipart-aytka)
 
 Description
 
