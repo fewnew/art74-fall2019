@@ -1,7 +1,7 @@
 # Jessica Zavala
 
 ### Documentation
-* Title of the work
+* Music's The Escape
 * Medium: Print + AR
 * Dimensions/duration: Square 8.5 by 8.5
 * Attribution (burrow and tell): Link to where you collected images from online
