@@ -4,7 +4,20 @@
 * Music's The Escape
 * Medium: Print + AR
 * Dimensions/duration: Square 8.5 by 8.5
-* Attribution (burrow and tell): Link to where you collected images from online
+* Attribution (burrow and tell): 
+Rain - http://pngimg.com/imgs/nature/rain/
+
+Sunlight - http://pngimg.com/imgs/nature/sun/
+
+Girl - https://myrealdomain.com/explore/person-listening-to-music.html
+
+Clouds - http://pngimg.com/imgs/nature/cloud/
+
+Road - https://bankkita.com/explore/road-clipart-png/
+
+Music Wave - https://www.freepik.com/free-icon/audio-wave_806918.htm
+
+Music Icon - https://www.pinterest.com.mx/pin/574138652470131816
 
 ### Description
 Every project should address the following questions:
