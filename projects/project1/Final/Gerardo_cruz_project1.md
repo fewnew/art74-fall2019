@@ -32,4 +32,4 @@ Every project should address the following questions:
 
 ![alt text](https://i.imgur.com/tJlbYfI.jpg)
 
-[GIF animation linked here](https://media.giphy.com/media/U5UtvK7LLJlrEwyiJk/giphy.gif)
+[GIF animation link](https://media.giphy.com/media/U5UtvK7LLJlrEwyiJk/giphy.gif)
