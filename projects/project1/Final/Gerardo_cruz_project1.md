@@ -3,7 +3,7 @@
 ### Documentation
 * Title: "Anxious?"
 * Medium: Print + AR
-* Dimensions/duration: 8.4 x 8.5 inches
+* Dimensions/duration: 8.4 x 8.5 inches/18 frames
 * Attribution (burrow and tell): 
 <a href="http://www.freepik.com">Designed by ddraw / Freepik</a>   
 <a href="http://www.freepik.com">Designed by kjpargeter / Freepik</a>    
