@@ -1,4 +1,3 @@
-Documentation
 
 San Francisco Fog
 
@@ -8,7 +7,6 @@ Dimensions/duration:
 
 Attribution (burrow and tell): Google image of San Francisco fog
 
-Description
 
 My project is the city of San Francisco being covered by fog. It feels like a cold cloudy morning when the sun rises. I was
 motivated to make this piece because I lived in San Francisco almost my whole life and I really miss the morning coldness when
