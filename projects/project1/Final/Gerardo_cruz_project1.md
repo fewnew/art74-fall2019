@@ -1,10 +1,11 @@
 # Gerardo Cruz Guzman
 
 ### Documentation
-* Anxious?
+* Title: "Anxious?"
 * Medium: Print + AR
 * Dimensions/duration: 8.4 x 8.5 inches
-* Attribution (burrow and tell): <a href="http://www.freepik.com">Designed by ddraw / Freepik</a>   
+* Attribution (burrow and tell): 
+<a href="http://www.freepik.com">Designed by ddraw / Freepik</a>   
 <a href="http://www.freepik.com">Designed by kjpargeter / Freepik</a>    
 https://www.pngguru.com/free-transparent-background-png-clipart-eqzlr
 https://www.pngguru.com/free-transparent-background-png-clipart-bfhhj
