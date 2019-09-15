@@ -3,7 +3,6 @@ San Francisco Fog
 Medium: Print + AR
 Dimensions/duration: 
 Attribution (burrow and tell): Google image of San Francisco fog
-Every project should address the following questions:
 
 
 My project is the city of San Francisco being covered by fog. It feels like a cold cloudy morning when the sun rises. I was
