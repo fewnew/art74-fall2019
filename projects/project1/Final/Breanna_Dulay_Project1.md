@@ -13,6 +13,7 @@ What is the conceptual/personal/political motivation behind the project?<br>
 What is the intended context? Where/how does the audience experience it?<br>
 What/who are your influences for this particular piece?
 
-![alt text](https://imgur.com/T52F5fD)
+Digital Collage: 
+![alt text](https://imgur.com/T52F5fD "Digital Collage")
 
 [GIF animation linked here](https://media.giphy.com/media/PnCvcGv67E2QKYOQUb/giphy.gif)
