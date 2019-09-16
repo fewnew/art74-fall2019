@@ -13,6 +13,7 @@ Every project should address the following questions:
 3. What is the intended context? Where/how does the audience experience it?
 4. What/who are your influences for this particular piece?
 
-![alt text](https://i.imgur.com/7ETp646.jpg)
+Digital Collage: 
+![alt text](https://i.imgur.com/7ETp646.jpg "Digital Collage")
 
-[GIF animation linked here](https://media.giphy.com/media/PnCvcGv67E2QKYOQUb/giphy.gif)
+[GIF animation linked here](https://gph.is/g/4VmAzQo)
