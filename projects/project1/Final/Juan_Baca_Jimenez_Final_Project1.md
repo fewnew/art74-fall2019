@@ -21,9 +21,12 @@ Attribution (burrow and tell):
 
 Description
 
-Every project should address the following questions:
 
-    What does your project look/sound/smell/feel like?
+
+   For my project, I was aiming for hues that symbolizes calmness, confidence, happiness, and positivity. The motivation behind this project was my personal interest in grass because green is my favorite color. I find it interesting by the color, texture and how beautiful grass can appear. Also, grass can bring out the environment to be and feel so alive. This led me to input grass in the bottom of my collage. One of my favorite fruits are strawberries so I wanted to included that into my collage. I intended to provide a 3-dimension effect by creating a curvy pathway of strawberries. Each strawberry gets smaller further into space and it gives a 3D perpective. I used colors that go well with each other and making the collage vibrant.
+   
+   I want the audience to feel lost in space. I intended to edit in a bright yellow rainbow shape which is a juice
+
     What is the conceptual/personal/political motivation behind the project?
     What is the intended context? Where/how does the audience experience it?
     What/who are your influences for this particular piece?
