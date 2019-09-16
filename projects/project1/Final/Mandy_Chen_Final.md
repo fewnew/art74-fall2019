@@ -8,7 +8,7 @@
    [Sucide Squad Joker]( https://variety.com/2017/film/news/jared-leto-margot-robbie-joker-harley-quinn-movie-1202537688/)
     [Dark Knight Joker](https://www.hiclipart.com/free-transparent-background-png-clipart-dgejr)
     [Money Bag](https://www.pinpng.com/picture/xRJhw_money-png-image-make-a-money-bag-transparent/)
-    [Joker 2019] (https://www.youtube.com/watch?v=zAGVQLHvwOY)
+    [Joker 2019](https://www.youtube.com/watch?v=zAGVQLHvwOY)
     [Joker Mask](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjSnvnantTkAhXUi54KHZO6A3wQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.kissclipart.com%2Fjoker-clown-mask-tshirt-clipart-joker-batman-harle-1diqy1%2Fpreview.html&psig=AOvVaw3Vxsv2H2F2X7moQulkOX_0&ust=1568685415003005)
 
 ### Description
