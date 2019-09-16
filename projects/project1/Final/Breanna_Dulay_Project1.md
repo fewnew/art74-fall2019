@@ -14,6 +14,6 @@ What is the intended context? Where/how does the audience experience it?<br>
 What/who are your influences for this particular piece?
 
 Digital Collage: 
-<blockquote class="imgur-embed-pub" lang="en" data-id="T52F5fD"><a href="//imgur.com/T52F5fD"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![alt text](https://i.imgur.com/T52F5fD.jpg "Digital Collage")
 
 [GIF animation linked here](https://media.giphy.com/media/PnCvcGv67E2QKYOQUb/giphy.gif)
