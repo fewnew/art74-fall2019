@@ -1,9 +1,12 @@
 # Chanyaphon Chungam
-Dreamscape
-Medium: Print + AR
-Dimensions/duration: 8.5 x 8.5 / 9 frames
-Attribution:
 
+Dreamscape
+
+Medium: Print + AR
+
+Dimensions/duration: 8.5 x 8.5 / 9 frames
+
+Attribution:
 Girl https://aantwerp.tumblr.com/post/174345562737/anammv-xiao-wen-ju-for-grazia-c hina
 
 Moon https://www.newsweek.com/embargo-0001-thursday-july-19-astronomy-photogra pher-year-2018-stunning-space-1030663?slide=13
@@ -27,7 +30,7 @@ The intended context was to create an image where the audience feels like theyâ€
 4. What/who are your influences for this particular piece?
 I would say that I am the influence. I added things that I would see in a dream or that would represent some part of my dream landscape.
 
-https://imgur.com/4ZlWCua
+<blockquote class="imgur-embed-pub" lang="en" data-id="4ZlWCua"><a href="//imgur.com/4ZlWCua"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 https://media.giphy.com/media/j3twPyzDntNK6wX4Kq/giphy.gif
 
