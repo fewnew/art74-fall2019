@@ -14,6 +14,6 @@ My project is a mix of the vaporwave edit style mixed with the popular TV show R
 
 The inspiration for the edit as a whole is because season four of Rick and morty is set to premiere this year after around two years of no new content so needless to say I’m excited and because of this i inspired my edit off of this. Additionally, I'm a fan of Arizona tea and almost drank so much I got sick of it once but always thought that the cans looked really aesthetically pleasing. Earlier this summer I also went hiking to a waterfall for the first time which made some memorable experiences and when I saw the two images combined into one I knew what I had to do. As for the computer borders and notifications that’s simply because this is my first personal computer that I bought with my scholarship money a few weeks ago so this is meant to highlight that. 
 
-![alt text](https://i.imgur.com/7ETp646.jpg)
+![alt text]()
 
 [https://giphy.com/gifs/YrBDFc77EWLavyVP7Q]
