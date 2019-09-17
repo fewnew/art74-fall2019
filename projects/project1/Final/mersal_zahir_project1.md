@@ -19,4 +19,6 @@ https://weheartit.com/entry/210119691
 
 My collage is based purely on things I like and things that make me happy. The whole piece was inspired by Ariana Grande's song NASA which is one of my favorite songs ever, and from there I just began to add more pieces I enjoyed. The main percpetion of space is dark and souless but with the pop beat of this song I thought it would be more fun to put a more colorful spin on the space theme. I added certain characters I liked from media to make it a bit more personal, but overall I just wanted to make a fun piece that was nice to look at. 
 
+(https://i.imgur.com/gBUnqOo.jpg)
+
 GIF animation link: https://gph.is/g/ZYxJRV1
