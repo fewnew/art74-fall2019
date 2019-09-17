@@ -12,6 +12,6 @@ The overall concept I am trying to convey is the overload of the world that we l
 intended contect through the imagery that comes and goes. Post Malone and my partners style are my motivation for this 
 piece. 
 
-![alt text](https://imgur.com/a/YJMlUL4)
+![alt text](https://i.imgur.com/QZkgLO2.jpg)
 
 https://media.giphy.com/media/XD3g8rCGJRhL5Rad16/giphy.gif
