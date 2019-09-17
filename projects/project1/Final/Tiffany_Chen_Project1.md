@@ -14,6 +14,6 @@ the whole city is covered in fog. I made this to show that cold foggy weather is
 and the heat but the fog is not that bad and it's actually really beautiful to look from afar when it's covering the Golden 
 Gate Bridge. I would want people that grew up in hot areas to go visit San Francisco and experience the cold weather there.   
 
-
+![alt text](https://i.imgur.com/COYzTPl.jpg)
 
 https://media.giphy.com/media/TdvOUe9FnL2B2yKeMM/giphy.gif
