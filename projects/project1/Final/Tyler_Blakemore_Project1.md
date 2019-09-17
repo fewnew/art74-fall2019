@@ -14,4 +14,4 @@ piece.
 
 ![alt text](https://i.imgur.com/QZkgLO2.jpg)
 
-https://media.giphy.com/media/XD3g8rCGJRhL5Rad16/giphy.gif
+[GIF link](https://media.giphy.com/media/XD3g8rCGJRhL5Rad16/giphy.gif)
