@@ -3,7 +3,7 @@ San Francisco Fog
 
 Medium: Print + AR
 
-Dimensions/duration: 
+Dimensions/duration: 21" x 13"
 
 Attribution (burrow and tell): Google image of San Francisco fog
 
