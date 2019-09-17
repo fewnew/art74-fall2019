@@ -30,8 +30,7 @@ The intended context was to create an image where the audience feels like theyâ€
 4. What/who are your influences for this particular piece?
 I would say that I am the influence. I added things that I would see in a dream or that would represent some part of my dream landscape.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="4ZlWCua" data-context="false"><a href="//imgur.com/4ZlWCua"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+https://imgur.com/4ZlWCua
 
 https://media.giphy.com/media/j3twPyzDntNK6wX4Kq/giphy.gif
 
