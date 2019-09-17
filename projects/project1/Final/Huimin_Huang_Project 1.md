@@ -18,6 +18,7 @@ Every project should address the following questions:
 3. What is the intended context? Where/how does the audience experience it?   I made these because I know everyone would have difficulty sometimes, but don't give up just like these characters.
 4. What/who are your influences for this particular piece?   When I had some negative, I would tell myself to be happy.
 
-!.[alt text].(https://imgur.com/gallery/gQe8Tu1)
+!.[alt text].(https://i.imgur.com/FsbGgRQ.jpg)
 
 [GIF animation linked here](https://giphy.com/gifs/ZeQubpmtUBvcfDKNaV)
+
