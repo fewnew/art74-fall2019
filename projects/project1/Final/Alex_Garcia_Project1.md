@@ -24,4 +24,4 @@ The inspiration for the edit as a whole is because season four of Rick and morty
 
 ![alt text](https://i.imgur.com/7ETp646.jpg)
 
-[https://giphy.com/gifs/YrBDFc77EWLavyVP7Q]
+[https://giphy.com/gifs/YrBDFc77EWLavyVP7Q
