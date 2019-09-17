@@ -1,4 +1,4 @@
-# H1 Chanyaphon Chungam
+# Chanyaphon Chungam
 Dreamscape
 Medium: Print + AR
 Dimensions/duration: 8.5 x 8.5 / 9 frames
