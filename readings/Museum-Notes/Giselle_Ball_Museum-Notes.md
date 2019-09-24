@@ -4,3 +4,5 @@ My favorite piece from the museum was “A World Lost” because of the extreme 
 
 I also like the message this piece is portraying. An island is injured and falling apart because of the pollution that humans have carelessly discarded. I think it brings attention to the global warming problems and overall pollution we are causing this planet. I believe this piece makes a statement to all who see it and will change their actions towards the earth’s wellbeing. 
 
+
+![alt text](https://imgur.com/1Lwl7ps)
