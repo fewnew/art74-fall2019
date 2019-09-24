@@ -1,2 +1,2 @@
-![alt text][logo]
+![https://imgur.com/1IXdPTZ][logo]
 
