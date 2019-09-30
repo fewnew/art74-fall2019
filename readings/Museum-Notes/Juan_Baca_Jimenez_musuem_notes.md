@@ -1,5 +1,4 @@
 
-
- ###Museum Notes
+Museum Notes
  
  The artwork I chose that I enjoyed looking at was "The world as burnt fruit," by Rina Banerjee. This peiece drew my attention because different kinds of materials were used to create this spectacular artwork. Seems like it would be a project of found ojects. The musuem placard for this artwork says it was made of fans, feathers, cowrie shells, resin alligator skull, globe, glass vials, light bulbs gourds steel wire, Japanese mosquito nets. Banerjee's artist statement on the placard says, "When empires feuded for popluations and plantations, buried in colonial and ancient currency a Gharial appeared from an inky melon- hot with blossom sprang forth to swallow the world not yet whole as a burnt fruit." First when I saw this artwork, instantly I thought this was a crocodile with sharp teeth eating some sort of fruit. In the back, I thought that it looked like a big mushroom with feathers looking like flowers inside and shells outside of it. After reading her statement, it gave me a different sense of what this artwork could be. It gave me a dark feeling of the world being a burnt fruit with wars going on in the world. Also, it made me think that we are disturbing the wild life and destroying the thier food. It gave me a sense of anger from the alligator furiously eating the world.   
