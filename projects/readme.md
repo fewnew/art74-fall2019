@@ -1,5 +1,5 @@
 # Projects
-### ART 074: Section X, Fall 2018.
+### ART 074: Section 2, Fall 2019.
 
 :art: △▽△▽△▽ :art:
 
