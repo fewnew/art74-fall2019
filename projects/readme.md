@@ -3,7 +3,7 @@
 
 :art: △▽△▽△▽ :art:
 
-[Home](https://github.com/fewnew/art74-spring2019) | [Syllabus](https://github.com/fewnew/art74-spring2019/blob/master/syllabus.md#syllabus) | [Readings](https://github.com/fewnew/art74-spring2019/tree/master/Readings) | [Projects](https://github.com/fewnew/art74-spring2019/tree/master/projects) | Small Assignments
+[Home](https://github.com/fewnew/art74-fall2019) | [Syllabus](https://github.com/fewnew/art74-fall2019/blob/master/syllabus.md#syllabus) | [Readings](https://github.com/fewnew/art74-fall2019/tree/master/Readings) | [Projects](https://github.com/fewnew/art74-fall2019/tree/master/projects) | Small Assignments
 --- | --- | --- | --- | ---
 
 This course consists of smaller assignments which build up necessary skills for making the 6 main projects and writing the final paper. See descriptions of each project in the links provided below.
