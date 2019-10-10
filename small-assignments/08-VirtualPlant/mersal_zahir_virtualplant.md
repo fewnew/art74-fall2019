@@ -1,0 +1,3 @@
+Name: PrismGlow
+
+The plant I have created is called a PrismGlow. The plant itself is made to grow crystals that can illuminate. This plant has been made and genetically modified by scientists to act as a new power source instead of the sources we used today. Instead of using lightbulbs and other man made harmful sources, we use these crystals to act as a new source of light. With these we can greatly reduce the amount of light polution on our planet. The crystals from the plant only last for so long, but once used, they can be replanted to grow more PrismGlows. At first they were only accessable in labs, but now can be grown in your own homes. 
