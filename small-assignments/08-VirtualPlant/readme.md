@@ -1,6 +1,6 @@
 # Virtual Plant
 
-Give you virtual plant a name and generate a descriptive utopian narrative around your imaginary creation (1-2 paragraphs). You might want to consider some of these questions for ideation and brainstorming:
+Give your "TECHNOBOTANIC" virtual plant a name and generate a descriptive utopian narrative around your imaginary creation (1-2 paragraphs). You might want to consider some of these questions for ideation and brainstorming:
 
 1. What is the function/purpose that your plant is fulfilling?
 2. What species of plants is it? How was it originated?
