@@ -11,3 +11,4 @@ Give you virtual plant a name and generate a descriptive utopian narrative aroun
 7. Does it float/fly? Attach to things or live off of other existing plants/wires, cables, cell towers, etc.?
 
 ![](https://codigooculto.com/wp-content/uploads/2019/05/revelan-una-gran-red-subterranea-que-conecta-a-los-arboles-la-wood-wide-web-portada-768x432.jpg)
+![](https://i.imgur.com/6y5jZ43.png)
