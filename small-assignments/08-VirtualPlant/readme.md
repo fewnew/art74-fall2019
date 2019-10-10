@@ -8,3 +8,5 @@ Give you virtual plant a name and generate a descriptive narrative around your i
 4. Where in nature does it live?
 5. How is it affecting the ecosystem, climate or earth in general?
 6. How is it connected to technology? How is it connected to the Wood Wide Web and other plants?
+
+![](https://codigooculto.com/wp-content/uploads/2019/05/revelan-una-gran-red-subterranea-que-conecta-a-los-arboles-la-wood-wide-web-portada-768x432.jpg)
