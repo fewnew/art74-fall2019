@@ -1,0 +1,5 @@
+Reading 06:
+
+When reading the article on 3D models and things to consider while creating or producing one, I found a lot of the factors very interesting. I like how they used examples while listing off some of the things to take into consideration. I wish I read this before making my 3D model, I think I would’ve been able to come up with something 10x more interesting than what I created in class. I like the idea of asking all these questions, I think you would get some really weird and abstract things or some pretty normal things if the whole class was asking themselves a question about each item on the list.
+
+The article also makes 3D model brainstorming, creating, and producing way more difficult and complicated than what people would normally do. I liked reading this article and will take some of the categories into consideration the next time I draw, paint, create or make a 3D model of a new character or plant. All in all, I think I’ll read the article again in the future so I can produce more unique 3D creations.
