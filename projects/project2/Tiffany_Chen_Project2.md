@@ -6,15 +6,15 @@ Medium: 3D modeling, Meshmixer, and Sketchfab
 
 Attribution:
 
-Girl model from Poly
+- Girl model from Poly
 
-Hollow ball from Poly
+- Hollow ball from Poly
 
-Buckyball from Poly
+- Buckyball from Poly
 
-Balls from Meshmixer
+- Balls from Meshmixer
 
-Audio: "Everybody Dances Except Me" by In Love With a Ghost
+- Audio: "Everybody Dances Except Me" by In Love With a Ghost
 
 
 Description
