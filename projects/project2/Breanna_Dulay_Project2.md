@@ -2,7 +2,7 @@
 
 ### Documentation
 * "Follow the white rabbit into the ring." 
-* Dimensions: Triangles: 159.9k Vertices: 82.5k
+* Dimensions: Triangles(159.9k), Vertices(82.5k)
 * Medium: 3D Modeling and Virtual Reality 
 * Attribution:
     * "Boxing Ring" by Ian MacGillivray on Google Poly 
