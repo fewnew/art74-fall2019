@@ -1,1 +1,1 @@
-On the reading I learned that programming is exposed to form the primary content in an aplhanumeric soup so thick it often stumps even the most computer literate.
+On the reading I learned that programming is exposed to form the primary content in an aplhanumeric soup so thick it often stumps even the most computer literate. Also that programing is exposed to for the primary content in an alphanumeric soup so thick it often stumps even the most computer literate. I also really liked the images that were used because they look kind of old school.
