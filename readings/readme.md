@@ -13,8 +13,7 @@
 6. [reading 06: The 3D Addivist Manifesto](https://github.com/fewnew/art74-fall2019/blob/master/readings/reading06/The_3D_Additivist_Manifesto.pdf) by Morehshin Allahyari and Daniel Rourke
 7. [reading 07: Web Work, A History of Internet Art](https://github.com/fewnew/art74-fall2019/blob/master/readings/reading07/Greene%2C%20Rachel%20-%20Web%20Work%2C%20A%20History%20of%20Internet%20Art.pdf) by Rachel Greene
 8. [reading 08: Read me, Run me, Execute me](https://github.com/fewnew/art74-fall2019/blob/master/readings/reading08/Arns_Inke_Read_me_run_me_execute_me%20.pdf) by Inke Arns
-9. [reading 09: Hello Processing](https://github.com/fewnew/art74-fall2019/blob/master/readings/reading09/hello-processing.md) by The Processing Foundation, tutorials: Daniel Shiffman
-10. [reading 10: Processing Transition](https://github.com/fewnew/art74-fall2019/blob/master/readings/reading10/processing-transition.md) by Lauren McCarthy
+
 
 ## reading Response Instructions
 There will be assigned readings and videos uploaded onto this folder. Students are required to submit responses with the minimum of 2 paragraphs to these materials in the *"responses"* folder.
