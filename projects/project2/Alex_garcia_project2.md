@@ -7,4 +7,8 @@ ODST soldier: https://poly.google.com/view/ds0oJ98AIvh
 Samsu soldier: Don't remeber how I got this 
 Ferris Wheel: https://poly.google.com/view/1VmmK6Gus8f
 Description: Becuase Halloween is around the corner I wanted to do something spooky for my project. Looking at all of the movements Mixamo had to offer I just knew with the sheer ammount of zombie movements I had to find some way to incorporate that. With other models such as the Ferris Wheel I decided to shift it into more of a Zombie land climax scene where the protagonist are in an amuzement park against a horde of the undead. Except instead of the protaginst used in the film I again merged it with something else I enjoy using foot soldiers from the hit video game Halo as the subjects. This gives me a great reflection back at my childhood since everything here can help to explain as to why it's doing what in the scenery
-https://14200550.github.io/
+
+https://skfb.ly/6PpKC
+
+<div class="sketchfab-embed-wrapper">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/9a2836f2b5cd43e8b0a9fec5955169e5/embed" frameborder="0" allow="autoplay; fullscreen; vr" 
