@@ -14,3 +14,7 @@
 
 ### Description
 My project with this video was to make a video highlighting my favorite weather. I wanted to implement my favorite weather with abstract images. I placed abstract images that represent the feeling or image of each weather. I place raindrops on top of the raining images and distorted their colors. I also wanted to show the satisfying aspect of each weather with the slow transitions and the video of the ice melting. I wanted this video to be satisfying and calming to the viewers as well as give them insight into how I see each weather. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fM-9Eqw56_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://gisellemball.github.io/
