@@ -6,7 +6,7 @@ Medium: 1,920 x 1,080
 Dimensions/duration: 1:38
 
 Attribution: 
-music: Spirited Away:Always with me.[https://www.youtube.com/watch?v=LWzvzDCLFN4&t=130s]
+music: .[Spirited Away:Always with me].(https://www.youtube.com/watch?v=LWzvzDCLFN4&t=130s)
 
 What does your project look/sound/smell/feel like?
 
