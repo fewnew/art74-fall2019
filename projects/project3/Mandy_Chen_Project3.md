@@ -1,4 +1,4 @@
-Video: https://www.youtube.com/watch?v=ezCIa7k05m8
+Video: https://youtu.be/E3THIrHN9_Y
 
 Title of the work: Hightlight of 2019
 Medium: 1,920 x 1,080
