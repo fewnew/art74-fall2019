@@ -1,4 +1,4 @@
-*Ladybug
+Ladybug
 
 I chose the ladybug as my subject because it has simple shapes.
 I decided to add more colorful colors for the ladybugs, and I
