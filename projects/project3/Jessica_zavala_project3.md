@@ -23,7 +23,7 @@ Pexels: https://www.pexels.com/video/christmas-ornaments-and-dancing-lights-1722
 Music: Santa Tell me Instrumental - Ariana Grande
 Description
 
-The reason for my video project was to set a Christmas Vibe since I love Christmas.
+The reason for my video project was to set a Christmas Vibe since I love Christmas. The real inspiration behind this was about sending positive vibes and to show love to other people. I feel like my video shows a great example on how we are all humans and we are all connected some way and that we all can love and it's during the holidays when love is mostly shown. When people see my video I want it to make them feel happy and get into the holiday spirit and to remeber that all humans can love and can be loved.
 
 https://youtu.be/Ik8fUjlmok8
 
