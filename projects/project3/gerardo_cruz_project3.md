@@ -5,6 +5,7 @@ Medium: Video clips collage
 Dimensions/duration: 55 sec
 
 Attribution:
+
 Music:
 
 http://soundbible.com
