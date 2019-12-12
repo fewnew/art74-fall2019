@@ -4,12 +4,20 @@
 * Duration: 1 min 4 sec
 
 ##Atribution
-https://www.pexels.com/video/multi-colored-vapor-1943483/ Multi Collored Vapors by Engin Akyurt
-https://www.pexels.com/video/a-splatters-of-purple-liquid-2541975/ A Splatters of Purple Liquid by KML
-https://www.pexels.com/video/blue-jellyfish-856882/ Blue Jellyfish by Pixabay
-https://www.pexels.com/video/time-lapse-video-of-candle-burning-855622/ Time Lapse Video of Candle Burning by Pixabay
-https://youtu.be/9imCm6CrNZ8 iamthekidyouknowwhatimean - Run
+Multi Collored Vapors by Engin Akyurt
+https://www.pexels.com/video/multi-colored-vapor-1943483/ 
 
+A Splatters of Purple Liquid by KML
+https://www.pexels.com/video/a-splatters-of-purple-liquid-2541975/ 
+
+Blue Jellyfish by Pixabay
+https://www.pexels.com/video/blue-jellyfish-856882/ 
+
+Time Lapse Video of Candle Burning by Pixabay
+https://www.pexels.com/video/time-lapse-video-of-candle-burning-855622/ 
+
+iamthekidyouknowwhatimean - Run
+https://youtu.be/9imCm6CrNZ8 
 
 ### Description
 I always loved the look of ink through water so I decided to make the theme
