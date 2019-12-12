@@ -1,8 +1,11 @@
 Documentation
 
 Title: Christmas Vibes
+
 Medium: Video Collage
+
 Duration: 1 min
+
 ##Atribution
 
 Pexels: https://www.pexels.com/video/christmas-tree-with-lights-and-ornaments-1672805/
