@@ -1,7 +1,11 @@
 Documentation:
+
 Title: Retrospect
+
 Medium: Glitch
+
 Duration: 2 min 39 seconds 
+
 Video link:https://youtu.be/moBv9pauRFw 
 
 Description:
