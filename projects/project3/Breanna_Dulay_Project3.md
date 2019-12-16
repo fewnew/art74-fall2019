@@ -22,4 +22,4 @@ but rather, one's own self. My video is a abstract, non-linear storytelling piec
 When my video is viewed, I want people to feel the intensity of the battle between these two figures, but I also want them to understand 
 that there is another fight going on that is not necessarily being portrayed. 
 
-https://www.youtube.com/watch?v=qxRIZX_BXfc
+https://youtu.be/yv3SNZc_2rA
