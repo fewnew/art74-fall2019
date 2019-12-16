@@ -1,7 +1,7 @@
 ## Documentation
 * Title: The Battle
 * Medium: Digital Media, Video 
-* Duration: 59 seconds 
+* Duration: 1 min 5 sec
 
 ##Attribution
 * https://www.videvo.net/video/cu-of-boxer-punching-boxing-bag/393678/
