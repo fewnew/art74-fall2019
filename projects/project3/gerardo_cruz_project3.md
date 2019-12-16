@@ -19,8 +19,7 @@ https://pixabay.com
 www.pexels.com
 
 Description:
-A man having a wild dream while listening to ambient music, and then the dream ends because of the 
-alarm clock going off. 
+A man having a wild dream while listening to ambient music, the sounds lead the dream along, and then the dream ends because of the alarm clock going off. 
 
 Link:
 https://vimeo.com/378683225
