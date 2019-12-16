@@ -27,4 +27,6 @@ The reason for my video project was to set a Christmas Vibe since I love Christm
 
 https://youtu.be/Ik8fUjlmok8
 
+file:///Users/jessicazavala/Desktop/Web%20Portfolio/index.html
+
 
