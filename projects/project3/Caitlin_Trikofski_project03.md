@@ -1,4 +1,4 @@
-Website:
+Website: https://caitlintrikofski.github.io/ 
 
 Link: https://vimeo.com/user105935513/review/377615151/5e6224eb17 
 
